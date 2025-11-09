@@ -1,0 +1,3 @@
+Index	Definition
+1	ADD &A, =1
+2	MEND
